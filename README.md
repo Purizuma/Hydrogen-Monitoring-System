@@ -7,13 +7,13 @@ An IoT-based hydrogen monitoring system designed for renewable energy applicatio
 - Local data logging and cloud-ready integration
 - Web dashboard for data visualization
 - Alerts when thresholds are exceeded
-- 
+  
 🛠️ Technologies Used
 - ESP32 + MQ-8 / MGS-H2 sensor
 - DHT22 for temperature & humidity
 - Web dashboard (HTML/JS)
 - MQTT / HTTP for data communication
-- 
+  
 🚀 Installation
 - Upload the firmware to ESP32
 - Connect sensors according to the diagram in the docs/ folder
