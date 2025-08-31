@@ -9,7 +9,7 @@ An IoT-based hydrogen monitoring system designed for renewable energy applicatio
 - Alerts when thresholds are exceeded
   
 🛠️ Technologies Used
-- Arduino Uno R4 Wifi + MQ-8
+- Arduino Uno R4 Wifi + MQ-8 & MQ-135 Sensor
 - Web dashboard (Arduino Cloud)
   
 🚀 Installation
